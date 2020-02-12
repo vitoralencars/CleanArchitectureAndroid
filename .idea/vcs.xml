@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AbreConta.Droid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidJetpack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Consignado.Droid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dayconnect.Droid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Daycontas.Droid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DaycovalCartoes.Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desafio-PicPay" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Kotlin-MVP-Testing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MPAndroidChart" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MoviesApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/POCCrawler" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SGIMobile" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kotlin-mvp-dagger2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/loterias" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lottocrawler" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mobilehomebroker.droid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/promauto.droid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/swipe-controller-demo" vcs="Git" />
+  </component>
+</project>
