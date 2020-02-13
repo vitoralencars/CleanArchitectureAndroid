@@ -8,7 +8,7 @@ android {
     compileSdkVersion 29
     buildToolsVersion "29.0.0"
     defaultConfig {
-        applicationId "br.com.daycoval.cleanarchitecture"
+        applicationId "com.com.cleanarch.cleanarchitecture"
         minSdkVersion 21
         targetSdkVersion 29
         versionCode 1
